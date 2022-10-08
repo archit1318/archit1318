@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit1318" alt="archit1318" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **DSA** and **React js**
 
 - 💬 Ask me about **DSA & Frontend Development**
 
 - 📫 How to reach me **archittiwari7013@gmail.com**
+
+💞️ I’m looking to collaborate on internship
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
