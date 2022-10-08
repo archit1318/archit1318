@@ -7,11 +7,14 @@
 
 - 🌱 I’m currently learning **DSA** and **React js**
 
+- 📫 I'm C++ Programmer
+
 - 💬 Ask me about **DSA & Frontend Development**
 
 - 📫 How to reach me **archittiwari7013@gmail.com**
 
 - 💞️ I’m looking to collaborate on internship
+
 
 
 <h3 align="left">Connect with me:</h3>
