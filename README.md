@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **archittiwari7013@gmail.com**
 
-💞️ I’m looking to collaborate on internship
+- 💞️ I’m looking to collaborate on internship
 
 
 <h3 align="left">Connect with me:</h3>
